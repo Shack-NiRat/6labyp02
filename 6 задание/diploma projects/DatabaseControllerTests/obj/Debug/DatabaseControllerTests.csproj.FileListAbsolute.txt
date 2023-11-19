@@ -1,0 +1,23 @@
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\DatabaseControllerTests.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\DatabaseControllerTests.pdb
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\diploma projects.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\diploma projects.pdb
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\obj\Debug\DatabaseControllerTests.csproj.AssemblyReference.cache
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\obj\Debug\DatabaseControllerTests.csproj.CoreCompileInputs.cache
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\obj\Debug\DatabaseControllerTests.csproj.CopyComplete
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\obj\Debug\DatabaseControllerTests.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\DatabaseControllerTests\obj\Debug\DatabaseControllerTests.pdb

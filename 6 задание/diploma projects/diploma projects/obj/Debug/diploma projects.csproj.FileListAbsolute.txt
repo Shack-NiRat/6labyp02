@@ -1,0 +1,6 @@
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\diploma projects\bin\Debug\diploma projects.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\diploma projects\bin\Debug\diploma projects.pdb
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\diploma projects\obj\Debug\diploma projects.csproj.AssemblyReference.cache
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\diploma projects\obj\Debug\diploma projects.csproj.CoreCompileInputs.cache
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\diploma projects\obj\Debug\diploma projects.dll
+B:\ИСПО\4 КУРС\УпНоябрь\МояРаботаЭкзамен\diploma projects\diploma projects\obj\Debug\diploma projects.pdb
